@@ -1,7 +1,7 @@
 # Data_Analysis
 Portifolio de projetos focados em Análise de Dados.
 
-## Nesse repositório você vai encontrar:
+## In this repository you will find:
 
-* **house_market_analysis** 
-Uma Análise exploratória de uma base de dados de imóveis de Seattle, EUA. Contém o passo a passo da análise, gráficos e descrições sobre os fenômenos observados.
+* **house_market_analysis**
+An Exploratory Analysis of a house market database from Seattle, USA. It contains a step-by-step analysis, graphs and descriptions of the data's characteristics.
